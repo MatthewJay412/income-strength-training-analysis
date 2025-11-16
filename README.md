@@ -53,7 +53,7 @@ The results show a *near-perfect* positive relationship between income and the p
 ![Scatterplot](visuals/scatter.png)
 
 ### Strength Training & Inactivity Trends  
-![Dual Line](visuals/figure2_dualline.png)
+![Dual Line](visuals/3.png)
 
 ---
 
