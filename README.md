@@ -17,8 +17,13 @@ The results show a *near-perfect* positive relationship between income and the p
 
 ---
 
-| [Capstone Notebook](Capstone Project.ipynb) | Full analysis in Jupyter Notebook |
-| [Final Report (PDF)](Report/Task 3 Capstone.pdf)   | Written report submitted for WGU Task 3 |
+### 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| 📘 [Capstone Project Notebook](Capstone%20Project.ipynb) | Full Jupyter Notebook containing data cleaning, analysis, visuals, and statistical tests |
+| 📄 [Task 3 Capstone Report (PDF)](Report/Task%203%20Capstone%20.pdf) | Final written report submitted for WGU Task 3 |
+
 
 ## 📊 Key Findings
 
