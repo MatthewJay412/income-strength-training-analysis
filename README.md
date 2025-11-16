@@ -63,7 +63,7 @@ The results show a *near-perfect* positive relationship between income and the p
 ### Strength Training & Inactivity Trends  
 ![Dual Line](visuals/3.png)
 
-### Simple Bar Chart (Strength Training vs Income)  
+### Simple Bar Chart (Strength Training Participation by Income)  
 ![Bar Chart](visuals/1.png)
 
 ---
