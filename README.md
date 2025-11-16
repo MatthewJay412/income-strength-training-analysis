@@ -88,9 +88,7 @@ https://www.kaggle.com/datasets/spittman1248/cdc-data-nutrition-physical-activit
 ---
 
 ## 🎥 Presentation Video  
-*(Optional — add once uploaded)*  
-**Panopto / YouTube Presentation:**  
-<your-link-here>
+Will add at a later date
 
 ---
 
