@@ -17,6 +17,9 @@ The results show a *near-perfect* positive relationship between income and the p
 
 ---
 
+| [Capstone Notebook](Capstone Project.ipynb) | Full analysis in Jupyter Notebook |
+| [Final Report (PDF)](Report/Task 3 Capstone.pdf)   | Written report submitted for WGU Task 3 |
+
 ## 📊 Key Findings
 
 - **Pearson correlation:** **0.997** (p < 0.001)  
